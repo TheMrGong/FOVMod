@@ -1,0 +1,8 @@
+[
+  {
+    "modid": "gong_fov",
+    "name": "Gongs Addons: Constant FOV",
+    "version": "${version}",
+    "mcversion": "${mcversion}"
+  }
+]
